@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Paneer Tikka</title>
+  <desc id="desc">Illustration of Paneer Tikka skewers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff8ea"/>
+      <stop offset="100%" stop-color="#f7d48e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="400" cy="420" rx="230" ry="90" fill="#7b1e1e" opacity="0.13"/>
+  <ellipse cx="400" cy="310" rx="215" ry="140" fill="#fefefe" stroke="#d1b06f" stroke-width="8"/>
+  <rect x="286" y="218" width="12" height="200" rx="6" fill="#9e6a40"/>
+  <rect x="358" y="205" width="12" height="220" rx="6" fill="#9e6a40"/>
+  <rect x="430" y="218" width="12" height="200" rx="6" fill="#9e6a40"/>
+  <rect x="500" y="205" width="12" height="220" rx="6" fill="#9e6a40"/>
+  <g fill="#f8d58a">
+    <circle cx="292" cy="250" r="34"/>
+    <circle cx="364" cy="240" r="34"/>
+    <circle cx="436" cy="250" r="34"/>
+    <circle cx="506" cy="238" r="34"/>
+  </g>
+  <g fill="#f1b46d">
+    <circle cx="292" cy="250" r="20"/>
+    <circle cx="364" cy="240" r="20"/>
+    <circle cx="436" cy="250" r="20"/>
+    <circle cx="506" cy="238" r="20"/>
+  </g>
+  <g fill="#d2693a">
+    <circle cx="316" cy="312" r="16"/>
+    <circle cx="386" cy="301" r="16"/>
+    <circle cx="460" cy="313" r="16"/>
+    <circle cx="530" cy="300" r="16"/>
+  </g>
+  <g fill="#7c7c7c" opacity="0.6">
+    <circle cx="332" cy="250" r="4"/>
+    <circle cx="404" cy="240" r="4"/>
+    <circle cx="476" cy="250" r="4"/>
+    <circle cx="546" cy="238" r="4"/>
+  </g>
+  <g fill="#e78844">
+    <path d="M305 330c12 20 25 30 40 30s27-10 38-29c-10 40-25 54-40 54-15 0-31-15-38-55z" opacity="0.9"/>
+  </g>
+</svg>

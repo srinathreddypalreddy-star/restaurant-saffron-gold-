@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Rogan Josh</title>
+  <desc id="desc">Illustration of Rogan Josh curry with lamb.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff8ea"/>
+      <stop offset="100%" stop-color="#f3c580"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="400" cy="430" rx="220" ry="90" fill="#7b1e1e" opacity="0.15"/>
+  <ellipse cx="400" cy="310" rx="220" ry="142" fill="#fefefe" stroke="#d6b074" stroke-width="8"/>
+  <ellipse cx="400" cy="320" rx="165" ry="98" fill="#8f0e2e"/>
+  <ellipse cx="400" cy="315" rx="130" ry="62" fill="#b11c36" opacity="0.98"/>
+  <g fill="#f0a03b">
+    <path d="M320 296c18-26 43-42 74-42 32 0 63 15 87 48-12 12-31 18-51 19-49 2-81-9-110-25z"/>
+  </g>
+  <g fill="#f4cf68">
+    <circle cx="352" cy="316" r="18"/>
+    <circle cx="397" cy="300" r="20"/>
+    <circle cx="450" cy="316" r="18"/>
+  </g>
+  <g fill="#f1f3f7">
+    <ellipse cx="340" cy="360" rx="46" ry="18"/>
+    <ellipse cx="420" cy="361" rx="42" ry="15"/>
+  </g>
+  <g fill="#d24545">
+    <path d="M285 352c18 26 42 42 72 42 31 0 58-14 82-42-22 40-45 55-82 55-34 0-57-14-72-55z" opacity="0.9"/>
+  </g>
+</svg>
